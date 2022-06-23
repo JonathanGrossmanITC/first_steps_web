@@ -19,7 +19,7 @@ The topics below outline what you learn in the live session. After the live sess
   - CSS is the language for adding style to webpages  
   - Use styles to control properties of your HTML elements, like color, height, width, layout, font type, and more
   - Here is a [list of CSS properties](https://www.w3schools.com/cssref/)  
-  - Write CSS code in a .css file or in your HTML file using the `style` attribute or `script` tags  
+  - Write CSS code in a .css file or in your HTML file using the `style` attribute or `style` tags in the head 
   - Recommended to use a .css file instead of the other options because it is easier to maintain  
   - Whichever style approach you use, be consistent, intuitive, and predictable so that reading and maintaining your code is easy  
   - When using a .css file, import it inside your HTML file in the `head` tag using a link tag having its `src` set to the .css file's relative path  
